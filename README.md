@@ -79,7 +79,9 @@ You will be prompted to enter a date (DD MM YYYY), and if a matching CSV file is
 ## 🖼️ Screenshots
 
 📌 Histogram Example
-  
+  - https://github.com/dulan-nimnaka/traffic-data-analysis/blob/main/screenshots/histogram_sample1.png
+  - https://github.com/dulan-nimnaka/traffic-data-analysis/blob/main/screenshots/histogram_sample2.jpeg
+  - https://github.com/dulan-nimnaka/traffic-data-analysis/blob/main/screenshots/histogram_sample3.jpeg
 
 📌 CLI Input Example
 
