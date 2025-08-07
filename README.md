@@ -70,6 +70,43 @@ The program simulates a real world traffic data processor, allowing multi-date i
 
   ```bash
   python main.py
+  ```
+
+You will be prompted to enter a date (DD MM YYYY), and if a matching CSV file is found, the program will analyze the data and show insights. A graphical histogram will be displayed afterward.
+
+---
+
+## 🖼️ Screenshots
+
+📌 Histogram Example
+  
+
+📌 CLI Input Example
+
+
+---
+
+## 📁 Project Structure
+
+  ```bash
+  traffic-data-analysis/
+  │
+  ├── main.py                                   # Main application script
+  ├── Test_results_for_Task_ABCDE.pdf           # Test cases
+  ├── results.txt                               # Output file (generated after run)
+  ├── /screenshots                              # Screenshots folder (optional)
+  └── README.md
+  ```
+
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+
+
 
 
 
